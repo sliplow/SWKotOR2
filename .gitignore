@@ -17,14 +17,14 @@
 /temp
 /TexturePacks
 /utils
-.dll
-.key
-.dat
-.exe
-.txt
-.log
-.tlk
-.tga
+*.dll
+*.key
+*.dat
+*.exe
+*.txt
+*.log
+*.tlk
+*.tga
 
 #################
 ## Eclipse
